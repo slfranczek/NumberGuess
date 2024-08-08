@@ -1,8 +1,11 @@
 Follow the prompts to begin a new game.
+
 Enter guesses as prompted.
+
 Guess "debug" to see target number.
 
 Based on following requirements:
+
 Create a C# console application that is a simple version of Mastermind. The randomly generated answer
 should be four (4) digits in length, with each digit between the numbers 1 and 6. After the player enters
 a combination, a minus (-) sign should be printed for every digit that is correct but in the wrong position,
